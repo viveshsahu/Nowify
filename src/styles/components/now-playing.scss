@@ -17,7 +17,7 @@
   &__details {
     padding: var(--spacing-m);
     text-align: center;
-    width: 100%;
+   
   }
 
   &__cover {
@@ -60,8 +60,7 @@
 
     &__cover,
     &__details {
-      width: 50%;
-      max-width: 495px;
+     
     }
 
     &__details {
